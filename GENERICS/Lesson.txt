@@ -1,0 +1,4 @@
+- Generics allows you to have a general method and class that can accommodate
+Different data types, return different data types.
+
+- NOTE: Only reference(classes) data types can be used in generics
